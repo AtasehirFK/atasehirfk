@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ataşehir FK</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <img src="assets/logo.png" alt="Ataşehir FK Logosu" class="logo" />
+    <h1>Ataşehir Futbol Kulübü</h1>
+    <nav>
+      <ul>
+        <li><a href="#">Ana Sayfa</a></li>
+        <li><a href="#">Kadro</a></li>
+        <li><a href="#">Fikstür</a></li>
+        <li><a href="#">Haberler</a></li>
+        <li><a href="#">İletişim</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h2>İstanbul’un kalbinden yükselen tutku: Ataşehir FK</h2>
+      <p>Bu site kurgusal bir kulübe aittir. Tamamen eğlence ve tasarım amaçlıdır.</p>
+    </section>
+
+    <section class="cards">
+      <div class="card">🎯 Son Maç: Ataşehir FK 3-2 Şişli United</div>
+      <div class="card">🧤 Yeni Kaleci: Kasım Saddov kadroda!</div>
+      <div class="card">🛍️ Yeni Sezon Forması Çok Yakında</div>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Ataşehir FK | Bu site gerçek bir kulübe ait değildir.</p>
+  </footer>
+</body>
+</html>
